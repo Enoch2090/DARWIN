@@ -5,6 +5,6 @@ pyserini==0.13.0
 spacy==3.1.2
 streamlit==1.0.0
 streamlit_ace==0.1.0
-torch==1.10.0
+torch==1.10.0+cpu
 tqdm==4.59.0
 treelib==1.6.1

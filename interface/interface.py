@@ -328,7 +328,7 @@ def option_edit_cache():
             
           
 def option_about():
-    with open('README.md', 'r') as f:
+    with open('../README.md', 'r') as f:
         readme = "".join(f.readlines())
     st.markdown(readme)
 

@@ -9,8 +9,8 @@ INTERFACE_CONFIG = edict(
         "max_queries": 20,
         "max_displayed_results": 20,
         "default_placeholder_delay": 0.01,
-        "users": ["dmml", "gyc"],
-        "cache_edit": True
+        "users": ["test_user"],
+        "cache_edit": False
     }
 )
 

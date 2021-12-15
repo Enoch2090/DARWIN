@@ -328,9 +328,9 @@ def option_edit_cache():
             
           
 def option_about():
-    st.markdown('''# About
-                Lorem ipsum
-                ''')
+    with open('README.md', 'r') as f:
+        readme = "".join(f.readlines())
+    st.markdown(readme)
 
 # ----------------Menu----------------
 feature_extractor = FeatureExtractorWrapper()

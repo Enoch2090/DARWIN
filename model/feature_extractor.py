@@ -4,7 +4,7 @@ from spacy.matcher import DependencyMatcher
 from spacy.tokenizer import Tokenizer
 from spacy.util import compile_infix_regex
 import logging
-nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load('en_core_web_sm')
 
 def custom_tokenizer(nlp):
     inf = list(nlp.Defaults.infixes)               # Default infixes

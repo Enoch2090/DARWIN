@@ -1,7 +1,0 @@
-<project>
-  <modelVersion>1.0.0</modelVersion>
- 
-  <groupId>com.darwin-search.app</groupId>
-  <artifactId>Darwin</artifactId>
-  <version>1</version>
-</project>

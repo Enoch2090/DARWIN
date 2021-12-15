@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run interface.py
+web: sh setup.sh && cd interface && streamlit run interface.py

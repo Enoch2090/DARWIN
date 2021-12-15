@@ -1,0 +1,502 @@
+[
+  {
+    "query": "I want a red car with heated seats.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a blue car with CarPlay.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want an old and cheap car with emission volume of 3.0.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want an expensive car with all configurations.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a black car with navigation system and moderate price.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a car with high performance.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a Tesla electric car at lowest price.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a cheap V-8 engine car.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a white car with rich technology.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a diesel-driven car with high engine power.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a small emission volume car with CarPlay.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a light-color 2018 Ford SUV.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a red car with high safety configurations.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want to keep warm in winter and start the car remotely.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I am a student searching for a cost-effective car for school.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I am a racecar lover with limited budget.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a car with rich gear levels and high horse power.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want a white four-wheels-drive BMW sedan.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I am a new driver seeking for a moderate emission volume car with moderate price.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  },
+  {
+    "query": "I want an SUV with good performance in snowy weather.",
+    "results": [
+      {
+        "doc_id": 0,
+        "score": 0
+      },
+      {
+        "doc_id": 1,
+        "score": 0
+      },
+      {
+        "doc_id": 2,
+        "score": 0
+      },
+      {
+        "doc_id": 3,
+        "score": 0
+      },
+      {
+        "doc_id": 4,
+        "score": 0
+      }
+    ]
+  }
+]

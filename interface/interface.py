@@ -210,7 +210,7 @@ def option_query(dev_mode):
     st.title("Query")
     query = st.text_input('Enter query', 'I want a car with strong horsepower.')
     enhanced = st.checkbox("Use Feature Extraction", value=True)
-    if st.button("Submit"):
+    if st.button("Search"):
         with st.spinner("Querying..."):
             query_list = cleanse_query(query)
             if enhanced:
